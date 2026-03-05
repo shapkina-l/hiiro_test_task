@@ -10,11 +10,11 @@ Simple HTTP backend service deployed locally in Kubernetes.
 - Makefile for automation
 
 ## Quick Start
-\```bash
+```bash
 make setup
 make all
 make port-forward
-\```
+```
 
 ## Full documentation
 See [ARCHITECTURE.md](./ARCHITECTURE.md)
