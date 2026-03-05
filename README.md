@@ -6,7 +6,6 @@ Simple HTTP backend service deployed locally in Kubernetes.
 - C++ with cpp-httplib (header-only)
 - Docker (multi-stage, distroless final image)
 - Kubernetes via kind
-- Helm for deployment templating
 - Trivy for vulnerability scanning
 - Makefile for automation
 
